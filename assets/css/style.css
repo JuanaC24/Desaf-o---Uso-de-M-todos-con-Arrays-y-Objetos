@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(252, 251, 252);
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 5px;
+    font-style: italic;
+    
+}
+th, td {
+    border: 1px solid rgb(117, 232, 186);
+    padding: 8px;
+    text-align: left;
+    
+}
+th {
+    background-color: #f0f0f0;
+    color: blue;
+    font-family: Arial, sans-serif;
+    
+}
+h2 {
+    color: rgb(24, 13, 236);
+}
+
+
+
+
+.consulta-container {
+    background-color: #f0f0f0; 
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    font-family: Arial, sans-serif; 
+    color: #333; 
+}
